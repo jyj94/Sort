@@ -21,3 +21,5 @@
 * 리스트 크기-연산 시간 그래프
     ![그래프](./img/heapSortTime.png)
 ## 퀵 정렬(Quick Sort)
+* 리스트 크기-연산 시간 그래프
+    ![그래프](./img/quickSortTime.png)
